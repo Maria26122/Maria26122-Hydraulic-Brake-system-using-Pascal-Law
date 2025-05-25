@@ -85,3 +85,45 @@ Desktop.ini
 
 # Ignore test output
 test-output/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore coverage html report
+htmlcov/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore screenshots and output images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Ignore documentation builds
+docs/_build/
+docs/build/
+
+# Ignore mypy type check cache
+.mypy_cache/
+
+# Ignore profiling data
+*.prof
+
+# Ignore systemd service files
+*.service
+
+# Ignore wheel files
+*.whl
+
+# Ignore node modules (if any frontend)
+node_modules/
+
