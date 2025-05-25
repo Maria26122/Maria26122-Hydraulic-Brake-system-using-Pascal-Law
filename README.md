@@ -41,8 +41,8 @@ This project visually simulates how force applied to a brake pedal is transmitte
 
 ## 🕹️ Interactive Controls
 
-- **Press and hold the SPACEBAR**: Apply the brake pedal (see the system in action)
-- **Release the SPACEBAR**: Release the brake pedal (system returns to rest)
+- **Press'F'**: Apply the brake pedal (see the system in action)
+- **Press'R'**: Release the brake pedal (system returns to rest)
 - **ESC key**: Exit the simulation window
 
 ---
@@ -65,7 +65,7 @@ This project visually simulates how force applied to a brake pedal is transmitte
 
 ## 💡 Try It Out!
 
-> **Tip:** Hold down the spacebar to see the brake system engage, and release it to reset!
+> **Tip:** Hold down 'F' & 'R' key to see the brake system engage, and release it to reset!
 
 ---
 
